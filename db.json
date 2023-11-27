@@ -1,7 +1,5 @@
 {
-  "bls": [
-    'A','kdkljmmefpnlinjpcfeeepobmppfeado'
-  ],
+  "bls": ["A", "kdkljmmefpnlinjpcfeeepobmppfeado"],
   "Tls": [
     {
       "id": 1,
