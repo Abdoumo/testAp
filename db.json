@@ -1,27 +1,5 @@
 {
-  "bls": ["", "oilbaipcnkpdnndalndigdonjfkfgkip", "bohjcdceoncmfmlkhfakmlofkfgkcmfb"],
-  "Tls": [
-    {
-      "id": 1,
-      "name":"Aboud",
-      "ip":"192.15.4569"
-    } ,
-    {
-      "id": 2,
-      "name":"Aboud 2",
-      "ip":"192.15.489"
-    }
-  ],
-  "Vfs": [
-    {
-      "id": 1,
-      "name":"Aboud",
-      "ip":"192.15.4569"
-    } ,
-    {
-      "id": 2,
-      "name":"Aboud 2",
-      "ip":"192.15.489"
-    }
-  ]
+  "bls": [],
+  "Tls": ["", "oilbaipcnkpdnndalndigdonjfkfgkip", "bohjcdceoncmfmlkhfakmlofkfgkcmfb"],
+  "Vfs": []
 }
